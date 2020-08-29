@@ -1,0 +1,8 @@
+function setup () {
+create canvas (400,400) ;
+}
+function draw () {
+background ("red")
+rect (0,150,10,100);
+rect (390,mouseY,10,100)
+rect(200,150,10,10) ;
